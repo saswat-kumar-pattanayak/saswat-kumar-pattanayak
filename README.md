@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saswat-kumar-pattanayak&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://komarev.com/ghpvc/?username=saswat-kumar-pattanayak&icon=0&color=1)](https://visitcount.itsvg.in)
 
