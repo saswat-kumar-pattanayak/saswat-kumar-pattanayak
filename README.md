@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working on<br>Building real-world web applications and strengthening my programming skills.<br> 🍁 I'm looking to collaborate on<br>Open-source projects and innovative software development.<br>🌇 I'm currently learning<br>Data Structures & Algorithms, Cyber Security, and modern web technologies.<br>💬 Ask me about<br>JavaScript, React, Git, GitHub, HTML, CSS, and programming fundamentals.<br>⚡ Fun fact<br>I believe that obsession beats talent.
+💼 I'm currently working on<br>Building real-world web applications and strengthening my programming skills.<br> 🍁 I'm looking to collaborate on<br>Open-source projects and innovative software development.<br>🌇 I'm currently learning<br>Data Structures & Algorithms, Cyber Security, modern web technologies & AI.<br>💬 Ask me about<br>JavaScript, React, Git, GitHub, HTML, CSS, and programming fundamentals.<br>⚡ Fun fact<br>I believe that obsession beats talent.
 
 
 ## 🌐 Socials:
